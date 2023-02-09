@@ -1,0 +1,1134 @@
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      100
+Time taken for tests:   32.724 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3055.83 [#/sec] (mean)
+Time per request:       32.724 [ms] (mean)
+Time per request:       0.327 [ms] (mean, across all concurrent requests)
+Transfer rate:          205.91 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  26.6      0    7151
+Processing:     1   32 134.1     13    1690
+Waiting:        1   32 134.0     13    1682
+Total:          4   33 137.1     13    7746
+
+Percentage of the requests served within a certain time (ms)
+  50%     13
+  66%     13
+  75%     13
+  80%     13
+  90%     14
+  95%     18
+  98%    145
+  99%   1044
+ 100%   7746 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      200
+Time taken for tests:   36.081 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    2771.51 [#/sec] (mean)
+Time per request:       72.163 [ms] (mean)
+Time per request:       0.361 [ms] (mean, across all concurrent requests)
+Transfer rate:          186.75 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  15.3      0    3023
+Processing:     2   72 208.0     26    1690
+Waiting:        1   72 207.9     26    1681
+Total:          7   72 208.7     26    3087
+
+Percentage of the requests served within a certain time (ms)
+  50%     26
+  66%     26
+  75%     27
+  80%     27
+  90%     31
+  95%     53
+  98%   1070
+  99%   1080
+ 100%   3087 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      300
+Time taken for tests:   27.757 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3602.74 [#/sec] (mean)
+Time per request:       83.270 [ms] (mean)
+Time per request:       0.278 [ms] (mean, across all concurrent requests)
+Transfer rate:          242.76 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  11.2      0    1027
+Processing:     5   83 205.2     39    1706
+Waiting:        1   83 205.1     39    1527
+Total:         13   83 205.5     39    1706
+
+Percentage of the requests served within a certain time (ms)
+  50%     39
+  66%     40
+  75%     41
+  80%     41
+  90%     44
+  95%     57
+  98%   1080
+  99%   1089
+ 100%   1706 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      400
+Time taken for tests:   28.637 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3492.04 [#/sec] (mean)
+Time per request:       114.546 [ms] (mean)
+Time per request:       0.286 [ms] (mean, across all concurrent requests)
+Transfer rate:          235.30 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  25.5      0    7183
+Processing:     7  107 231.7     51    1535
+Waiting:        7  107 231.7     51    1535
+Total:         45  107 233.1     51    7232
+
+Percentage of the requests served within a certain time (ms)
+  50%     51
+  66%     52
+  75%     53
+  80%     54
+  90%     58
+  95%   1079
+  98%   1099
+  99%   1105
+ 100%   7232 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      500
+Time taken for tests:   31.442 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3180.41 [#/sec] (mean)
+Time per request:       157.212 [ms] (mean)
+Time per request:       0.314 [ms] (mean, across all concurrent requests)
+Transfer rate:          214.30 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  26.9      0    7283
+Processing:     5  154 291.0     64    1843
+Waiting:        1  154 291.0     64    1843
+Total:         15  155 292.3     64    7349
+
+Percentage of the requests served within a certain time (ms)
+  50%     64
+  66%     66
+  75%     67
+  80%     68
+  90%     92
+  95%   1108
+  98%   1123
+  99%   1135
+ 100%   7349 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      600
+Time taken for tests:   28.242 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3540.77 [#/sec] (mean)
+Time per request:       169.455 [ms] (mean)
+Time per request:       0.282 [ms] (mean, across all concurrent requests)
+Transfer rate:          238.59 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   8.5      0    1023
+Processing:     5  168 296.5     77    1762
+Waiting:        1  168 296.3     77    1555
+Total:         18  168 296.6     78    1762
+
+Percentage of the requests served within a certain time (ms)
+  50%     78
+  66%     79
+  75%     81
+  80%     82
+  90%     97
+  95%   1125
+  98%   1139
+  99%   1148
+ 100%   1762 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      700
+Time taken for tests:   32.304 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3095.62 [#/sec] (mean)
+Time per request:       226.126 [ms] (mean)
+Time per request:       0.323 [ms] (mean, across all concurrent requests)
+Transfer rate:          208.59 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    1  54.5      0   15283
+Processing:     8  225 345.0     91    1746
+Waiting:        0  225 345.0     91    1677
+Total:         21  226 349.2     91   15376
+
+Percentage of the requests served within a certain time (ms)
+  50%     91
+  66%     93
+  75%     96
+  80%     99
+  90%   1126
+  95%   1141
+  98%   1162
+  99%   1351
+ 100%  15376 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      800
+Time taken for tests:   29.476 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3392.57 [#/sec] (mean)
+Time per request:       235.810 [ms] (mean)
+Time per request:       0.295 [ms] (mean, across all concurrent requests)
+Transfer rate:          228.60 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  11.3      0    1029
+Processing:     9  235 353.4    105    2214
+Waiting:        0  235 353.4    105    2214
+Total:         28  235 353.5    105    2215
+
+Percentage of the requests served within a certain time (ms)
+  50%    105
+  66%    107
+  75%    110
+  80%    111
+  90%   1134
+  95%   1158
+  98%   1169
+  99%   1181
+ 100%   2215 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      1000
+Time taken for tests:   32.309 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    3095.12 [#/sec] (mean)
+Time per request:       323.089 [ms] (mean)
+Time per request:       0.323 [ms] (mean, across all concurrent requests)
+Transfer rate:          208.56 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0  11.7      0    1029
+Processing:     8  322 418.1    131    2214
+Waiting:        0  322 418.1    131    2214
+Total:         24  322 418.2    131    2214
+
+Percentage of the requests served within a certain time (ms)
+  50%    131
+  66%    134
+  75%    141
+  80%    151
+  90%   1170
+  95%   1185
+  98%   1197
+  99%   1823
+ 100%   2214 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      100
+Time taken for tests:   12.302 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8128.85 [#/sec] (mean)
+Time per request:       12.302 [ms] (mean)
+Time per request:       0.123 [ms] (mean, across all concurrent requests)
+Transfer rate:          547.74 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2  32.5      0    1034
+Processing:     1   10  82.1      5    1679
+Waiting:        1   10  81.9      4    1679
+Total:          2   12  88.3      5    1680
+
+Percentage of the requests served within a certain time (ms)
+  50%      5
+  66%      6
+  75%      6
+  80%      6
+  90%      7
+  95%      7
+  98%      8
+  99%     10
+ 100%   1680 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      200
+Time taken for tests:   12.113 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8255.32 [#/sec] (mean)
+Time per request:       24.227 [ms] (mean)
+Time per request:       0.121 [ms] (mean, across all concurrent requests)
+Transfer rate:          556.27 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2  35.6      0    1036
+Processing:     4   22 112.7      9    1673
+Waiting:        1   22 112.7      9    1673
+Total:          6   24 118.5     10    1673
+
+Percentage of the requests served within a certain time (ms)
+  50%     10
+  66%     13
+  75%     13
+  80%     13
+  90%     14
+  95%     14
+  98%     16
+  99%   1021
+ 100%   1673 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      300
+Time taken for tests:   13.862 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    7213.83 [#/sec] (mean)
+Time per request:       41.587 [ms] (mean)
+Time per request:       0.139 [ms] (mean, across all concurrent requests)
+Transfer rate:          486.09 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    3 103.9      0    7106
+Processing:     3   37 151.1     16    1696
+Waiting:        0   37 150.9     16    1689
+Total:          8   40 183.6     17    7165
+
+Percentage of the requests served within a certain time (ms)
+  50%     17
+  66%     19
+  75%     20
+  80%     20
+  90%     21
+  95%     21
+  98%   1040
+  99%   1052
+ 100%   7165 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      400
+Time taken for tests:   12.278 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8144.44 [#/sec] (mean)
+Time per request:       49.113 [ms] (mean)
+Time per request:       0.123 [ms] (mean, across all concurrent requests)
+Transfer rate:          548.80 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2  48.4      0    3025
+Processing:     4   47 159.4     22    1688
+Waiting:        0   47 159.1     22    1688
+Total:         11   49 166.7     23    3087
+
+Percentage of the requests served within a certain time (ms)
+  50%     23
+  66%     27
+  75%     28
+  80%     28
+  90%     28
+  95%     30
+  98%   1051
+  99%   1072
+ 100%   3087 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      500
+Time taken for tests:   15.900 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    6289.14 [#/sec] (mean)
+Time per request:       79.502 [ms] (mean)
+Time per request:       0.159 [ms] (mean, across all concurrent requests)
+Transfer rate:          423.78 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    5 131.0      1    7244
+Processing:    14   71 219.7     31    1696
+Waiting:        0   71 219.7     31    1696
+Total:         14   77 257.2     31    7388
+
+Percentage of the requests served within a certain time (ms)
+  50%     31
+  66%     33
+  75%     34
+  80%     34
+  90%     35
+  95%     39
+  98%   1076
+  99%   1260
+ 100%   7388 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      600
+Time taken for tests:   12.278 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8144.50 [#/sec] (mean)
+Time per request:       73.669 [ms] (mean)
+Time per request:       0.123 [ms] (mean, across all concurrent requests)
+Transfer rate:          548.80 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2  35.0      1    1032
+Processing:     7   72 192.8     36    1719
+Waiting:        1   71 192.7     36    1689
+Total:         17   74 195.9     37    1720
+
+Percentage of the requests served within a certain time (ms)
+  50%     37
+  66%     41
+  75%     42
+  80%     42
+  90%     42
+  95%     46
+  98%   1061
+  99%   1084
+ 100%   1720 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      700
+Time taken for tests:   12.205 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8193.10 [#/sec] (mean)
+Time per request:       85.438 [ms] (mean)
+Time per request:       0.122 [ms] (mean, across all concurrent requests)
+Transfer rate:          552.07 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    1  29.4      0    3032
+Processing:     5   75 195.7     38    1734
+Waiting:        1   75 195.6     38    1673
+Total:         18   77 197.8     38    3083
+
+Percentage of the requests served within a certain time (ms)
+  50%     38
+  66%     45
+  75%     47
+  80%     48
+  90%     49
+  95%     49
+  98%   1063
+  99%   1082
+ 100%   3083 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      800
+Time taken for tests:   13.765 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    7264.62 [#/sec] (mean)
+Time per request:       110.123 [ms] (mean)
+Time per request:       0.138 [ms] (mean, across all concurrent requests)
+Transfer rate:          489.51 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2  49.0      1    3023
+Processing:     9   95 219.9     48    1704
+Waiting:        1   95 219.8     48    1684
+Total:         24   98 225.2     49    3119
+
+Percentage of the requests served within a certain time (ms)
+  50%     49
+  66%     55
+  75%     56
+  80%     56
+  90%     58
+  95%     63
+  98%   1075
+  99%   1079
+ 100%   3119 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      1000
+Time taken for tests:   12.277 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8145.14 [#/sec] (mean)
+Time per request:       122.773 [ms] (mean)
+Time per request:       0.123 [ms] (mean, across all concurrent requests)
+Transfer rate:          548.84 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    3 103.9      1    7219
+Processing:    15  118 244.6     57    1733
+Waiting:        1  117 244.5     57    1683
+Total:         27  120 265.5     58    7287
+
+Percentage of the requests served within a certain time (ms)
+  50%     58
+  66%     67
+  75%     68
+  80%     70
+  90%     73
+  95%   1071
+  98%   1101
+  99%   1108
+ 100%   7287 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      100
+Time taken for tests:   14.281 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    7002.13 [#/sec] (mean)
+Time per request:       14.281 [ms] (mean)
+Time per request:       0.143 [ms] (mean, across all concurrent requests)
+Transfer rate:          471.82 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    6 157.1      1    7248
+Processing:     0    5  73.7      1    1689
+Waiting:        0    4  73.2      1    1688
+Total:          0   11 173.5      2    7249
+
+Percentage of the requests served within a certain time (ms)
+  50%      2
+  66%      3
+  75%      4
+  80%      4
+  90%      5
+  95%      7
+  98%      7
+  99%      8
+ 100%   7249 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      200
+Time taken for tests:   12.185 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8206.56 [#/sec] (mean)
+Time per request:       24.371 [ms] (mean)
+Time per request:       0.122 [ms] (mean, across all concurrent requests)
+Transfer rate:          552.98 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    7  68.5      1    1032
+Processing:     0   14 114.1      5    1692
+Waiting:        0   13 114.0      5    1689
+Total:          1   20 133.0      7    1699
+
+Percentage of the requests served within a certain time (ms)
+  50%      7
+  66%      9
+  75%     10
+  80%     10
+  90%     14
+  95%     14
+  98%     16
+  99%   1011
+ 100%   1699 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      300
+Time taken for tests:   12.128 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8245.10 [#/sec] (mean)
+Time per request:       36.385 [ms] (mean)
+Time per request:       0.121 [ms] (mean, across all concurrent requests)
+Transfer rate:          555.58 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    9  79.2      2    1048
+Processing:     5   28 142.8     12    1694
+Waiting:        1   27 142.5     11    1692
+Total:          9   36 163.1     15    1698
+
+Percentage of the requests served within a certain time (ms)
+  50%     15
+  66%     16
+  75%     17
+  80%     19
+  90%     21
+  95%     21
+  98%     30
+  99%   1040
+ 100%   1698 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      400
+Time taken for tests:   11.880 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8417.62 [#/sec] (mean)
+Time per request:       47.519 [ms] (mean)
+Time per request:       0.119 [ms] (mean, across all concurrent requests)
+Transfer rate:          567.20 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    9  96.9      1    3027
+Processing:     4   38 160.4     16    1697
+Waiting:        0   37 160.1     15    1688
+Total:          9   47 187.2     18    3063
+
+Percentage of the requests served within a certain time (ms)
+  50%     18
+  66%     20
+  75%     23
+  80%     24
+  90%     28
+  95%     29
+  98%   1029
+  99%   1043
+ 100%   3063 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      500
+Time taken for tests:   12.004 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8330.21 [#/sec] (mean)
+Time per request:       60.022 [ms] (mean)
+Time per request:       0.120 [ms] (mean, across all concurrent requests)
+Transfer rate:          561.31 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   11 168.2      2    7279
+Processing:     5   48 175.4     21    1761
+Waiting:        0   48 175.2     21    1761
+Total:         14   60 242.1     24    7297
+
+Percentage of the requests served within a certain time (ms)
+  50%     24
+  66%     28
+  75%     30
+  80%     31
+  90%     34
+  95%     36
+  98%   1041
+  99%   1049
+ 100%   7297 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      600
+Time taken for tests:   12.184 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8207.17 [#/sec] (mean)
+Time per request:       73.107 [ms] (mean)
+Time per request:       0.122 [ms] (mean, across all concurrent requests)
+Transfer rate:          553.02 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    6  62.3      1    1048
+Processing:     4   53 185.0     24    1693
+Waiting:        1   53 184.8     24    1692
+Total:          8   59 195.0     26    1698
+
+Percentage of the requests served within a certain time (ms)
+  50%     26
+  66%     30
+  75%     32
+  80%     34
+  90%     37
+  95%     42
+  98%   1051
+  99%   1064
+ 100%   1698 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      700
+Time taken for tests:   13.892 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    7198.24 [#/sec] (mean)
+Time per request:       97.246 [ms] (mean)
+Time per request:       0.139 [ms] (mean, across all concurrent requests)
+Transfer rate:          485.04 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   19 294.2      2    7275
+Processing:     7   69 212.5     27    1680
+Waiting:        1   68 212.4     27    1678
+Total:         16   88 362.3     30    7496
+
+Percentage of the requests served within a certain time (ms)
+  50%     30
+  66%     35
+  75%     38
+  80%     42
+  90%     49
+  95%     59
+  98%   1057
+  99%   1257
+ 100%   7496 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      800
+Time taken for tests:   12.070 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8284.67 [#/sec] (mean)
+Time per request:       96.564 [ms] (mean)
+Time per request:       0.121 [ms] (mean, across all concurrent requests)
+Transfer rate:          558.24 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   11 119.5      2    3025
+Processing:    14   86 218.6     41    1703
+Waiting:        3   85 218.4     40    1674
+Total:         25   96 247.8     44    3057
+
+Percentage of the requests served within a certain time (ms)
+  50%     44
+  66%     50
+  75%     51
+  80%     52
+  90%     57
+  95%     66
+  98%   1064
+  99%   1098
+ 100%   3057 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 10.14.21.168 (be patient)
+
+
+Server Software:        
+Server Hostname:        10.14.21.168
+Server Port:            8080
+
+Document Path:          /arithmetic/fibonacci?num=23/
+Document Length:        5 bytes
+
+Concurrency Level:      1000
+Time taken for tests:   11.990 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      6900000 bytes
+HTML transferred:       500000 bytes
+Requests per second:    8340.52 [#/sec] (mean)
+Time per request:       119.897 [ms] (mean)
+Time per request:       0.120 [ms] (mean, across all concurrent requests)
+Transfer rate:          562.01 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   21 321.5      3    7125
+Processing:    12   90 228.2     41    1732
+Waiting:        1   90 227.9     40    1732
+Total:         25  111 392.1     42    7168
+
+Percentage of the requests served within a certain time (ms)
+  50%     42
+  66%     50
+  75%     54
+  80%     56
+  90%     60
+  95%   1052
+  98%   1076
+  99%   1090
+ 100%   7168 (longest request)
